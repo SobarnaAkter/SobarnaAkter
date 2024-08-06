@@ -4,13 +4,13 @@ I'm a passionate web developer and SEO specialist.
 
 🌟 Here's a little about me:
 
-💻 I love crafting responsive and user-friendly web experiences.
-🔭 I’m currently working on Flutter
-🌱 I’m currently learning Backend
-💬 Ask me anything about Flutter 
-📫 How to reach me: svsuborna518@gmail.com
-😄 My website: https://sobarnaakter.com
-⚡ Fun fact: I'm coming to teen
+- 💻 I love crafting responsive and user-friendly web experiences.
+- 🔭 I’m currently working on Flutter
+- 🌱 I’m currently learning Backend
+- 💬 Ask me anything about Flutter 
+- 📫 How to reach me: svsuborna518@gmail.com
+- 😄 My website: https://sobarnaakter.com
+- ⚡ Fun fact: I'm coming to teen
   
 ### Connect with me:
 <div id="badges">
